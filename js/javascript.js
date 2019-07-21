@@ -44,6 +44,21 @@ $(document).ready(function() {
          $("body").removeClass();
          $("body").attr("class", "sydney")
      }
+
+     else if ( city === "paris") {
+         $("body").removeClass();
+         $("body").attr("class", "paris")
+     }
+
+     else if ( city === "moscow") {
+        $("body").removeClass();
+        $("body").attr("class", "moscow")
+    }
+
+    else if ( city === "tokyo") {
+        $("body").removeClass();
+        $("body").attr("class", "tokyo")
+    }
      $("form").trigger("reset");
    
    }); //this closing bracket is for event.default

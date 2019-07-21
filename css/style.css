@@ -138,7 +138,15 @@ header {
 .sydney {
   background-image: url(../images/sydney.jpg)
 }
-
+.tokyo {
+  background-image: url(../images/tokyo.jpg)
+}
+.moscow {
+  background-image: url(../images/moscow.jpg)
+}
+.paris {
+  background-image: url(../images/paris.jpg)
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
